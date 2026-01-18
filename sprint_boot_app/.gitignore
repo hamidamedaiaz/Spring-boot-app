@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+##Libs JS ##
+Frontend/node_modules/
+Frontend/dist/
